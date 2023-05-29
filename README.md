@@ -1,2 +1,2 @@
-# KhoiLordCoder
+# Code
 Im A Noob coder:)
